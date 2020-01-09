@@ -1,0 +1,22 @@
+{
+  "name": "root-coffee",
+  "version": "1.0.0",
+  "description": "Check if there are beverages at Root Offices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mycarrysun/root-coffee.git"
+  },
+  "author": "mike.harrison@joinroot.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mycarrysun/root-coffee/issues"
+  },
+  "homepage": "https://github.com/mycarrysun/root-coffee#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
